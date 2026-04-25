@@ -103,7 +103,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/man-with-vacuum-cleaning_23-2148514830.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/man-with-vacuum-cleaning_23-2148514830.jpg?_wi=1"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/vertical-shot-young-musician-woman-learns-how-play-ukulele-sits-sofa-with-crossed-legs_1258-204931.jpg",
@@ -204,21 +204,21 @@ export default function LandingPage() {
           title: "Green Cleaning Solutions",
           subtitle: "Gentle on Earth, Tough on Dirt",
           description: "We utilize non-toxic, eco-friendly supplies to protect your family, pets, and the environment while maintaining exceptional standards.",
-          imageSrc: "http://img.b2bpic.net/free-photo/still-life-office-cleaning-process_23-2149343073.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/still-life-office-cleaning-process_23-2149343073.jpg?_wi=1",
         },
         {
           tag: "Expert",
           title: "Highly Trained Staff",
           subtitle: "Vetted Specialists",
           description: "Our team undergoes rigorous background checks and comprehensive training, ensuring only the most trusted individuals enter your sanctuary.",
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-young-man-apron-standing-blue-wall_140725-143513.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-young-man-apron-standing-blue-wall_140725-143513.jpg?_wi=1",
         },
         {
           tag: "Convenience",
           title: "Seamless Booking",
           subtitle: "Flexible Scheduling",
           description: "Easily schedule, reschedule, or manage your cleaning appointments through our streamlined online booking platform whenever needed.",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-taking-care-cleaning-dirty-house_23-2149248483.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-taking-care-cleaning-dirty-house_23-2149248483.jpg?_wi=1",
         },
       ]}
       title="Why Elite Wash Stands Out"
@@ -237,7 +237,7 @@ export default function LandingPage() {
           id: "p1",
           name: "Kitchen Deep Clean",
           price: "From $120",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-cleaning-chair-with-rag_23-2148456987.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-cleaning-chair-with-rag_23-2148456987.jpg?_wi=1",
         },
         {
           id: "p2",
@@ -354,7 +354,7 @@ export default function LandingPage() {
           quote: "Elite Wash gave me my weekends back. Incredible work.",
           tag: "Regular",
           avatarSrc: "http://img.b2bpic.net/free-photo/person-paying-bill-restaurant-using-nfc-technology_23-2150039415.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-with-vacuum-cleaning_23-2148514830.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-with-vacuum-cleaning_23-2148514830.jpg?_wi=2",
           imageAlt: "happy client home interior",
         },
         {
@@ -365,7 +365,7 @@ export default function LandingPage() {
           quote: "The move-in clean was absolutely perfect. Highly recommended.",
           tag: "One-time",
           avatarSrc: "http://img.b2bpic.net/free-photo/happy-couple-receiving-keys-their-new-home-from-realtor_23-2148895470.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/still-life-office-cleaning-process_23-2149343073.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/still-life-office-cleaning-process_23-2149343073.jpg?_wi=2",
           imageAlt: "happy client home interior",
         },
         {
@@ -376,7 +376,7 @@ export default function LandingPage() {
           quote: "They are so careful with the kids' rooms. Totally trust them.",
           tag: "Family",
           avatarSrc: "http://img.b2bpic.net/free-photo/young-blonde-stylish-european-woman-blanket-tropical-balcony-meets-sunrise-morning_343596-3007.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-young-man-apron-standing-blue-wall_140725-143513.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-young-man-apron-standing-blue-wall_140725-143513.jpg?_wi=2",
           imageAlt: "happy client home interior",
         },
         {
@@ -387,7 +387,7 @@ export default function LandingPage() {
           quote: "I demand the highest standards, and they meet them every single time.",
           tag: "Premium",
           avatarSrc: "http://img.b2bpic.net/free-photo/cheerful-man-using-laptop-talking-mobile-phone_329181-12135.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-taking-care-cleaning-dirty-house_23-2149248483.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-taking-care-cleaning-dirty-house_23-2149248483.jpg?_wi=2",
           imageAlt: "happy client home interior",
         },
         {
@@ -398,7 +398,7 @@ export default function LandingPage() {
           quote: "Consistent, professional, and very thorough.",
           tag: "Elite",
           avatarSrc: "http://img.b2bpic.net/free-photo/full-shot-smiley-man-woman-home_23-2148899724.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/man-cleaning-chair-with-rag_23-2148456987.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/man-cleaning-chair-with-rag_23-2148456987.jpg?_wi=2",
           imageAlt: "happy client home interior",
         },
       ]}
